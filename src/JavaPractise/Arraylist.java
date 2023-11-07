@@ -29,7 +29,7 @@ public class Arraylist {
 		System.out.println(val);
 	  }
 	  //// Item is present in Array List
-	  System.out.println("-------------------");
+	  System.out.println(" The Out Put is :");
 	   System.out.println(a.contains("Sohan"));
 	   System.out.println("************");
 	   
